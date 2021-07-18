@@ -20,6 +20,14 @@ public:
 	Persona(string _cedula, string _nombre, float _peso, float _estatura, int _dia, int _mes, int _ano)
 	{
 	 	//Mina Preciado Jenniffer 
+		cedula = _cedula;
+		nombre = _nombre;
+		peso = _peso;
+		estatura = _estatura;
+		dia = _dia;
+		mes = _mes;
+		ano = _ano;
+		
 	}
 
 	void ingresar_datos()
