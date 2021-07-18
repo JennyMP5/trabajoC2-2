@@ -9,7 +9,7 @@ private:
 	//Fecha de nacimiento
 	int dia; //dia
 	int mes; //mes
-	int ano; //Año
+	int ano; //AÃ±o
 
 public:
 	int resultado_dia, resultado_mes, resultado_edad;
@@ -35,7 +35,40 @@ public:
 	void indice_corporal()
 	{
 
-		//Zambrano Zambrano Arely
+		//Zambrano Zambrano 
+		//Arely 
+		float i = peso / (estatura * estatura);
+
+		cout << "\nTu indice de mas corporal es:" << i << endl;
+
+		if (i < 20)
+		{
+
+			cout << endl
+				 << nombre<< " tienes un Indice de Masa Corporal por debajo de lo normal (bajo peso). Te recomiendo que te alimentes mejor, tomes mas vitaminas e ingieras  comidas mas saludables y llenas de proteina.\n";
+		}
+
+		if (i <= 20 && i >= 25)
+		{
+
+			cout << "\nFelicidades " << nombre << " usted tiene un Indice de Masa Corporal adecuado para su  peso y estatura.\n";
+		}
+
+		if (i <= 25 && i >= 30)
+		{
+
+			cout << endl
+				 << nombre << " tienes un Indice de Masa Corporal por encima de lo normal (sobrepeso). Te recomiendo que comas una dieta mas saludable, ingieras menos azucares, tomes mas agua y hagas una actividad fisica frecuente (30 min al dia).\n";
+		}
+
+		if (i > 35)
+		{
+
+			cout << endl
+				 << nombre << " tienes obesidad morbida,te recomiendo que tengas una dieta mas saludable, ingieras menos azucares, tomes mas agua y hagas una actividad fisica frecuente (30 min al dia).\n";
+		}
+	
+	
 	}
 	void guardar()
 	{
