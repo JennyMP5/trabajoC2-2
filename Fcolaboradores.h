@@ -79,6 +79,19 @@ public:
 	//..................
 	void recuperados()
 	{
-	
+	ifstream archivo;
+ 	string texto;
+ 	archivo.open("persona.txt",ios::in);
+ 	if(archivo.fail()){
+ 		cout<<"No se abre";
+ 		exit(1);
+ 		
+	 }
+	 while(!archivo.eof()){
+	 	getline(archivo,texto);
+	 	cout<<texto<<endl;
+	 	
+	 }
+	 archivo.close();
 	}
 };
