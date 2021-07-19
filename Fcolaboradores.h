@@ -70,7 +70,35 @@ public:
 
 	void calcular_edad(int dia_actual, int mes_actual, int ano_actual)
 	{
-		//Posso becerra Rosa 
+	        //Posso Becerra Rosa Antonella
+
+		if (dia_actual < dia)
+		{
+			dia_actual = dia_actual + 30;
+			mes_actual = mes_actual - 1;
+			resultado_dia = dia_actual - dia;
+		}
+		else  {
+			resultado_dia = dia_actual-dia;
+		}
+		if (mes_actual < mes)
+		{
+			mes_actual = mes_actual + 12;
+			ano_actual = ano_actual - 1;
+			resultado_mes = mes_actual - mes;
+		}
+		else {
+			resultado_mes = mes_actual-mes;
+		}
+		resultado_edad = ano_actual - ano;
+
+		cout << "\nUsted tiene:";
+
+		cout << resultado_edad<<"  años ,  ";
+		cout << resultado_dia<<"  dias  y ";
+		cout << resultado_mes<<" meses .";
+		cout << "\n";
+	
 	}
 
 	void indice_corporal()
@@ -120,10 +148,10 @@ public:
 	//..................
 	void recuperados()
 	{
-	ifstream archivo;
- 	string texto;
- 	archivo.open("persona.txt",ios::in);
- 	if(archivo.fail()){
+	        ifstream archivo;
+ 	        string texto;
+ 	        archivo.open("persona.txt",ios::in);
+ 	        if(archivo.fail()){
  		cout<<"No se abre";
  		exit(1);
  		
