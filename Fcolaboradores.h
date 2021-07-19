@@ -17,6 +17,7 @@ public:
 	{
 	}
 
+
 	Persona(string _cedula, string _nombre, float _peso, float _estatura, int _dia, int _mes, int _ano)
 	{
 	 	//Mina Preciado Jenniffer 
@@ -30,10 +31,42 @@ public:
 		
 	}
 
+
 	void ingresar_datos()
 	{
-		//Posso becerra Rosa 
+		//Posso Becerra Rosa Antonella
+                //Ingreso de los datos personales
+
+
+		cout << "\n\nIngrese la nombre: ";
+	        cin>>nombre;
+	
+		cout << "\n\nIngrese la cedula de identidad: ";
+		cin >> cedula;
+		cout << "\nIngrese el peso en kg: ";
+		cin >> peso;
+		cout << "\nIngrese la estatura en m: ";
+		cin >> estatura;
+
+		cout << "\nIngresa la fecha de nacimiento";
+		cout << "\n dia : ";
+		cin >> dia;
+		cout << "\n mes : ";
+		cin >> mes;
+		cout << "\n año : ";
+		cin >> ano;
+                //Se presenta por pantalla los datos ingresados
+
+		cout << "\n\nLos datos personales de la persona son: \n\n";
+		cout << "Nombre: " << nombre << endl;
+		cout << "Cedula de identidad: " << cedula << endl;
+		cout << "Fecha de nacimiento: "
+			 << " " << dia << "-" << mes << "-" << ano << endl;
+		cout << "Peso(kg): " << peso << endl;
+		cout << "Estatura(m): " << estatura << endl;
+	
 	}
+
 
 	void calcular_edad(int dia_actual, int mes_actual, int ano_actual)
 	{
