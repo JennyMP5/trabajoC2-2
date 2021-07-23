@@ -27,11 +27,45 @@ a este participante le toca guardar el archivo a una terminal (.txt )
 ###### Mina Preciado Jenniffer Katherine 
 Ester participante lo que hizo fue recuperar los datos en el archivo con la terminal ( .txt ) 
 
+###### Composición:
+Este proyecto está conformado por dos archivos ( principal.cpp) y (Fcolaboradores.h):
+## Archivo Principal.cpp
+Para empezar, usamos las librerías
+###### # include < iostream >
+######  #include < stdlib.h >
+###### # include < iostream >
+También usamos el llamado a la función Fcolaboradores.h donde se va a empezar la clase que vamos a usar.
+ 
+## Archivo Fcolaboradores.h
+En este archivo podemos encontrar las funciones String.h que permiten ingresar caracteres o letras, y que en este caso lo usamos para declarar la variable nombre.
+Aquí también encontramos la clase Persona(class Persona).
 
 
+###### Descripción:
+##### Principal.cpp
+include<stdlib.h> esta es una librería estándar en c++ que permite utilizar multiples funciones.
+include <fstream> esta librería la usamos para poder crear el archivo (.txt) y a la vez recuperar los datos de ese archivo.
+include "Fcolaboradores.h” aquí se hace el llamado al archivo donde se encuentra la clase.
+En la función Principal del programa ( int main() ) comenzamos por declarar las variables principales:
+(string nombres;) este es para declarar la variable nombre y colocamos string debido a que son letras.
+(Persona lisa;)aquí se nombra a la clase para poder hacer el llamado a todas sus funciones.
+A continuación colocamos la estructura condicional (switch (op)) que me permite definir múltiples casos que puede llegar a cumplir una variable cualquiera y qué acción tomar en cualquiera de esta situaciones; En este caso la usaremos para presentar un menú inicial que le permita al usuario escoger la opción que desee realizar con el programa. Dentro de esta estructura condicional se encuentra el llamado a la clase persona dependiendo de que función elija el usuario realizar.
+(lisa.ingresar_datos(); )   
 
 
-//zambrano zambrano Arely
+##### Fcolaboradore.h 
+ include<string.h>   Esta librería me permite ingresar datos con letras o caracteres.
+(class Persona) En esta clase colocamos todas las funciones que realiza el programa. 
+Primero declaramos los atributos de Class persona los declaramos en private puesto que estás son características únicas de la clase que solo puede modificar el usuario. 
+public: colocaremos los atributos generales y también los métodos y funciones que necesita el programa. 
+Entre las funciones están:
+vaid  Ingresar_dato() en la que se van a pedir, ingresar y mostrar los datos del usuario.
+void calcular_edad(int dia_actual, int mes_actual, int ano_actual) en la que se calcula la edad a partir de la fecha de nacimiento y  fecha actual.
+void indice_corporal() en la que se calcula el índice de masa corporal a partir de su peso y altura.  
+void guardar() En donde vamos a crear un archivo (.txt) y guardar los datos ingresados anteriormente.
+void recuperados() En donde recuperaremos los datos del archivo (.txt) y los mostraremos por pantalla.
+
+
 Pasos para la descargar el programa a un computador.
 1.	Para hacer este proceso vas a buscar https://github.com/  o en la aplicación Github instalada en tu computadora la persona que crees que te pueda prestar su código para hacer 
 
