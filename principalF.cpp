@@ -1,7 +1,5 @@
 #include <iostream>
 #include <stdlib.h>
-
-#include <malloc.h>
 #include <fstream>
 
 using namespace std;
