@@ -5,7 +5,7 @@
 #include <fstream>
 
 using namespace std;
-#include "colaboradoresJF.h" // EN ESTE ARCHIVO VAN LAS FUNCIONES
+#include "Fcolaboradores.h" // EN ESTE ARCHIVO VAN LAS FUNCIONES
 
 //FUCION PRINCIPAL
 int main()
@@ -30,7 +30,7 @@ int main()
 		cout << "4.- Guardar los datos en un archivo .txt \n";
 		cout << "5.- Recuperar los datos desde el archivo .txt y mostrarlos por pantalla \n";
 		cout << "0.- Salir del menu \n";
-		cout << " Ingrese una opción : ";
+		cout << " Ingrese una opciÃ³n : ";
 		cin >> op;
 		switch (op)
 		{
@@ -47,7 +47,7 @@ int main()
 			cin >> dia;
 			cout << "\n\nIngrese el mes actual: ";
 			cin >> mes;
-			cout << "\nIngrese el a�o actual: ";
+			cout << "\nIngrese el año actual: ";
 			cin >> ano;
 
 			lisa.calcular_edad(dia, mes, ano);
