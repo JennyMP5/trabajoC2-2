@@ -26,3 +26,23 @@ a este participante le toca guardar el archivo a una terminal (.txt )
 
 ###### Mina Preciado Jenniffer Katherine 
 Ester participante lo que hizo fue recuperar los datos en el archivo con la terminal ( .txt ) 
+
+
+
+
+
+//zambrano zambrano Arely
+Pasos para la descargar el programa a un computador.
+1.	Para hacer este proceso vas a buscar https://github.com/  o en la aplicación Github instalada en tu computadora la persona que crees que te pueda prestar su código para hacer 
+
+2.	luego de haber buscado el perfil de esta persona entras a sus repositorios.
+
+3.	Luego aplastas alguno de sus proyectos 
+
+4.	Aplastas el los archivos que esta subidos en sus repositorios registrados por ejemplos estos archivos puedes terminar como (.cpp) o (.h).
+
+5.	Luego de aplastar en el archivo o código en la parte derecha pon en el lápiz y copia el código.
+
+6.	Luego de haber copiado este código pégalo en una apk que utilices para codificar este puede ser DEV c++, visual studio, termux o en cualquier apk que utilices y guárdalo con la termina que tiene esa persona en su repositorio como dije anteriormente que podría ser (.cpp) o (.h).
+
+7.	Y empieza a modificar el código según los arreglos que necesite para que sea mejor su calidad Asia el usuario.
