@@ -106,7 +106,7 @@ Luego de ingresar tus datos se presenta por pantalla para ver si esta bien ingre
 
 Como nos dice el mensaje esta opción va a calcular tu edad y lo que tienes que hacer para que calcule tu edad actual es simplemente poner la fecha actual porque los datos de tu fecha de nacimiento te los pregunto anteriormente.
 
-Luego que porgas los datos que te solicita te presenta por pantalla tu edad tus días y tu hora.
+Luego que porgas los datos que te solicita te presenta por pantalla tu edad tus días y meses.
 
 4.	Luego aplastamos enter y se limpiara la pantalla nuevamente luego ingresas la opción.
 (opción 3) 
