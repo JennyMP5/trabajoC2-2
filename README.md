@@ -112,6 +112,7 @@ Luego que porgas los datos que te solicita te presenta por pantalla tu edad tus 
 (opción 3) 
 
 [![](https://n9.cl/ngn1v)
+ 
 Esta opción te va a mostrar tu índice corporal y un comentario para que estés saludable.
 
 5.	Luego aplastas enter y la opción siguiente que seria la 4.
