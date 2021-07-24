@@ -87,49 +87,47 @@ Ejecución: Describir como el usuario pude ejecutar el programa en su máquina (
 
 1.	 Primero al ejecutas el programa te sale una pantalla con un menú incluido. 
 
-[![](blob:https://web.whatsapp.com/05a5bb8f-db1a-4979-9169-fbcbac6b11c0)
+[![](https://1.bp.blogspot.com/--S820Y-9-kc/YPyJ4Js0L2I/AAAAAAAAAB4/t0ki_BZmVK4mPwTMgNL1ZC8NlRXebaUDACLcBGAsYHQ/s472/1.jpeg)
 Ese menú muestra cada punto e indicación de lo que se va a preguntar en el desarrollo de su ejecución.
 
-[![](blob:https://web.whatsapp.com/b4fff31f-2eaa-4477-a21e-08edd7a2ae15)
+[![](https://1.bp.blogspot.com/-Pe11Eu1adjA/YPyGihAUjjI/AAAAAAAAABA/XbDrxIbY_VEP4ksNbQieCirXLV7miI0GgCLcBGAsYHQ/w428-h297/2.jpeg)
 
 2.	Tienes que aplastar cada opción poniendo su numero es decir primero vas a hacer el punto 1 (aplastas 1) y enter .
 
 Como puedes ver en pantalla te salen las indicaciones de lo que tiene que ingresar y así mismo los vas a ingresar 
 Por ejemplo:
 
-[![](blob:https://web.whatsapp.com/d4bd800d-5899-4781-a677-8f000ce6147d)
+[![](https://1.bp.blogspot.com/-eU9UO-IzyiY/YPyGknoaLDI/AAAAAAAAABE/PaBRRC56Tt0mv-E0Jx25HE8Gk35ihmSHACLcBGAsYHQ/w432-h231/3.jpeg)
 Luego de ingresar tus datos se presenta por pantalla para ver si esta bien ingresados 
 
 3.	Luego aplastamos enter y la pantalla se limpia para aplastar la opción dos.
 
-[![](blob:https://web.whatsapp.com/01a40b5c-e361-43e9-8376-5593d49edae8)
+[![](https://1.bp.blogspot.com/-uWn8rjsNQ6w/YPyGl6o-djI/AAAAAAAAABI/eYVaXKn4sXoQgcb0NjLb4TIne-L1oCYEACLcBGAsYHQ/w443-h205/4.jpeg)
 
 Como nos dice el mensaje esta opción va a calcular tu edad y lo que tienes que hacer para que calcule tu edad actual es simplemente poner la fecha actual porque los datos de tu fecha de nacimiento te los pregunto anteriormente.
-
-[![](blob:https://web.whatsapp.com/9dcab937-c8c9-4559-a2cf-6a321453e63b
-)
 
 Luego que porgas los datos que te solicita te presenta por pantalla tu edad tus días y tu hora.
 
 4.	Luego aplastamos enter y se limpiara la pantalla nuevamente luego ingresas la opción.
 (opción 3) 
 
-[![](blob:https://web.whatsapp.com/54afc9c5-cf6c-4e55-8485-11cc232f5522)
+[![](https://1.bp.blogspot.com/-IP72NbuG6LU/YPyGnNwKH-I/AAAAAAAAABM/xkE5JCO_rdgAvZ4Ib3R_oFdaboIBToTgACLcBGAsYHQ/w471-h174/5.jpeg)
 Esta opción te va a mostrar tu índice corporal y un comentario para que estés saludable.
 
 5.	Luego aplastas enter y la opción siguiente que seria la 4.
 
-[![](blob:https://web.whatsapp.com/abd53402-0e41-4b6f-9d5a-205743ea38de)
+[![](https://1.bp.blogspot.com/-4wy4ipI16pI/YPyGoqAAFYI/AAAAAAAAABQ/vjv8wBUMESMgWM3KNIx5U8GWhN1zYWaggCLcBGAsYHQ/s604/6.jpeg)
 Esta opción nos va a servir para guardar en un archivo (.txt) 
 
-[![](blob:https://web.whatsapp.com/92da57e5-cde2-4b9b-82cf-83fb3dc5c96f)
+[![](https://1.bp.blogspot.com/-od6V7xeISUM/YPyHJaxzGjI/AAAAAAAAABw/KU-JXCVYuN0-vYdLtn440xBQYn7zoN9YQCLcBGAsYHQ/s606/7.jpeg)
 
 6.	Luego aplastas enter y pones la siguiente y última opción. 
 
 Opción 5 
 Esta opción va a mostrar los datos que están en el archivo (.txt)
 
-[![](blob:https://web.whatsapp.com/a92d4619-1ee8-4dd0-af06-ab26500723e6)
+[![](https://1.bp.blogspot.com/-moSDGjo2p0I/YPyGsOsgS0I/AAAAAAAAABY/5rPUYAct1lks3r2GImZPhBbEo5wShEelgCLcBGAsYHQ/w473-h348/8.jpeg)
+
 
 
 
