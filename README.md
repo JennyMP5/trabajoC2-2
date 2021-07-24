@@ -102,7 +102,7 @@ Luego de ingresar tus datos se presenta por pantalla para ver si esta bien ingre
 
 3.	Luego aplastamos enter y la pantalla se limpia para aplastar la opción dos.
 
-[![](https://1.bp.blogspot.com/-uWn8rjsNQ6w/YPyGl6o-djI/AAAAAAAAABI/eYVaXKn4sXoQgcb0NjLb4TIne-L1oCYEACLcBGAsYHQ/w443-h205/4.jpeg)
+[![](https://1.bp.blogspot.com/-uWn8rjsNQ6w/YPyGl6o-djI/AAAAAAAAABI/eYVaXKn4sXoQgcb0NjLb4TIne-L1oCYEACLcBGAsYHQ/w566-h392/4.jpeg)
 
 Como nos dice el mensaje esta opción va a calcular tu edad y lo que tienes que hacer para que calcule tu edad actual es simplemente poner la fecha actual porque los datos de tu fecha de nacimiento te los pregunto anteriormente.
 
